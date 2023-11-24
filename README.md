@@ -80,29 +80,13 @@
   </ul>
 </div>
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://www.spacex.com/static/images/share.jpg"/>](https://www.spacex.com/)
+<!-- ========= INVENT SOFTWARE ========== -->
+<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/C560BAQGer-6sn2Oj7Q/company-logo_200_200/0/1630662205897/invent_software_logo?e=2147483647&v=beta&t=doTFlQEamdGj1mUEgfDk3FsM5oetNJyL6XsrdS3fiYo"/>
 
 **Software Engineer** \
-[**SpaceX**](https://www.spacex.com/) • Full-time \
-Linguagens & Tecnologias: `Python`, `Django`, `C++`, `JavaScript`, `GoLang`, `SaltStack`,\
-Projetos em destaque: [Rocket](https://www.spacex.com/), [Marte](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
-<br/>
-
-[<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://yt3.ggpht.com/ytc/AKedOLQkXnYChXAHOeBQLzwhk1_BHYgUXs6ITQOakoeNoQ=s900-c-k-c0x00ffffff-no-rj"/>](https://rocketseat.com.br/)
-
-**Frot-end Developer (Jr)** \
-[**Rocketseat**](https://rocketseat.com.br/) • Contract \
-Linguagens & Tecnologias: `JavaScript`, `Node`, `React`\
-Projetos em destaque: [Ignite](), [Bootcamp]()
-<br/>
-
-[<img align="left" height="94px" width="94px" alt="Nubank" src="https://nubank.com.br/images/nu-icon.png?v=2"/>](https://nubank.com.br/)
-
-**Software Engineer** \
-[**Nubank**](https://nubank.com.br/) • Contract \
-Linguagens & Tecnologias: `React Native`, `Node`, `Swift`, `Kotlin`, `OpenShift` \
-Projetos em destaque: [App](https://nubank.com.br/)
-<br/>
+[**Invent Software**](https://inventsoftware.com.br/) • Full-time \
+Linguagens & Tecnologias: `C#`, `.NET`, `JavaScript`, `SAP B1`, `SAP UI5`, `Linq2DB`,\
+Projetos em destaque: [TaxPlus](https://inventsoftware.com.br/solucoes/taxplus/),
 <br/>
 <!-- =============================================================================================== -->
 
