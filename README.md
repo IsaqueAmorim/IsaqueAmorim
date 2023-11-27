@@ -49,9 +49,11 @@
   <table align="center">
     <tr border="none">
       <td width="50%" align="center">
-        <img  align="center"  src="https://gh-readme-stats-miguel-sr.vercel.app/api?username=IsaqueAmorim&theme=dark&show_icons=true&count_private=true" />
+        <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=IsaqueAmorim&show_icons=true&theme=vision-friendly-dark" media="border_color: e4e2e2" />
         <br></br>
-        <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=IsaqueAmorim&theme=dark&hide_border=false" /> 
+          <a href="https://git.io/streak-stats">
+            <img src="https://streak-stats.demolab.com?user=IsaqueAmorim&theme=dark&locale=pt_BR&exclude_days=Sun%2CSat" alt="GitHub Streak" />
+          </a>
       </td>
       <td width="50%" align="center">
         <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=IsaqueAmorim&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
