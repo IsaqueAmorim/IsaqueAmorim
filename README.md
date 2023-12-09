@@ -52,7 +52,7 @@
         <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=IsaqueAmorim&show_icons=true&theme=vision-friendly-dark" media="border_color: e4e2e2" />
         <br></br>
           <a href="https://git.io/streak-stats">
-            <img src="https://streak-stats.demolab.com?user=IsaqueAmorim&theme=dark&locale=pt_BR&exclude_days=Sun%2CSat" alt="GitHub Streak" />
+            <img src="https://streak-stats.demolab.com?user=IsaqueAmorim&theme=dark&locale=pt_BR" alt="GitHub Streak" />
           </a>
       </td>
       <td width="50%" align="center">
