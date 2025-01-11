@@ -35,7 +35,7 @@
 <!-- ===================================== Tech Stack Icons ======================================== -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,docker,git,css,figma,github,html,idea,java,js,linux,md,mysql,postman,react,tailwind,ts,vscode,gitlab,nginx,redis,rabbitmq,regex,spring,visualstudio&perline=14" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,docker,git,css,figma,github,html,idea,java,js,linux,md,mysql,postman,react,tailwind,ts,vscode,gitlab,nginx,redis,rabbitmq,regex,spring,visualstudio,go&perline=14" />
   </a>
 </p>
 <!-- =============================================================================================== -->
